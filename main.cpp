@@ -11,4 +11,10 @@ int main(int argc, char *argv[])
     w.show();
     return a.exec();
     cout << "hola" << endl;
+    cout << "hola" << endl;
+    cout << "hola" << endl;
+    cout << "hola" << endl;
+    cout << "hola" << endl;
+    cout << "hola" << endl;
+
 }
