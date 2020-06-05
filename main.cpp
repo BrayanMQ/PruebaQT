@@ -10,11 +10,5 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
     return a.exec();
-    cout << "hola" << endl;
-    cout << "hola" << endl;
-    cout << "hola" << endl;
-    cout << "hola" << endl;
-    cout << "hola" << endl;
-    cout << "hola" << endl;
-
+    cout << "se quitaron todos los cout" << endl;
 }
